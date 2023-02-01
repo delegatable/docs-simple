@@ -28,7 +28,6 @@ module.exports = {
       label: '🧱 How It Works',
       items: [
         'how-it-works/delegations',
-        // 'how-it-works/invocations',
         'how-it-works/on-chain-execution',
         'how-it-works/off-chain-signatures',
         'how-it-works/multi-party-delegations',
@@ -48,6 +47,11 @@ module.exports = {
         'enforcers/erc20-allowance-enforcer',
         'enforcers/revocation-enforcer',
       ],
+    },
+    {
+      type: 'category',
+      label: '🚀 Advanced Concepts',
+      items: ['advanced/eip1271'],
     },
     {
       type: 'category',
