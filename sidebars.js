@@ -54,5 +54,10 @@ module.exports = {
       label: '💻 Examples',
       items: ['frontend/quickstart'],
     },
+    {
+      type: 'doc',
+      label: '📚 Changelog',
+      id: 'changelog',
+    },
   ],
 };
