@@ -6,7 +6,8 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (
   module.exports = {
-    title: 'Delegatable',
+    title:
+      'Solidity framework for extending smart contracts with counterfactual revocable-delegation',
     tagline:
       'Solidity framework for extending smart contracts with counterfactual revocable-delegation',
     url: 'https://delegatable.org',
@@ -97,59 +98,6 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
             '⭐️ If you like Delegatable, give it a star on <a target="_blank" rel="noopener noreferrer" href="https://github.com/delegatable/delegatable-sol">GitHub</a>! ⭐️',
         },
         footer: {
-          // links: [
-          //   {
-          //     title: 'Docs',
-          //     items: [
-          //       {
-          //         label: 'Getting Started',
-          //         to: 'docs/what-is-delegatable',
-          //       },
-          //       {
-          //         label: 'FAQ',
-          //         to: 'docs/docsearch-program',
-          //       },
-          //       {
-          //         label: 'DocSearch v3',
-          //         to: 'docs/DocSearch-v3',
-          //       },
-          //     ],
-          //   },
-          //   {
-          //     title: 'Guides',
-          //     items: [
-          //       {
-          //         label: 'Apply',
-          //         to: 'apply',
-          //       },
-          //       {
-          //         label: 'Issues',
-          //         to: 'https://github.com/delegatable/delegatable-sol/issues',
-          //       },
-          //       {
-          //         label: 'Privacy',
-          //         to: 'https://www.algolia.com/policies/privacy/',
-          //       },
-          //     ],
-          //   },
-          //   {
-          //     title: 'Social',
-          //     items: [
-          //       {
-          //         label: 'GitHub',
-          //         to: 'https://github.com/delegatable/delegatable-sol',
-          //       },
-          //       {
-          //         label: 'Twitter',
-          //         to: 'https://twitter.com/docsearch_',
-          //       },
-          //       {
-          //         label: 'Algolia Blog',
-          //         to: 'https://algolia.com/blog/',
-          //       },
-          //     ],
-          //   },
-          // ],
           copyright: 'Delegatable Framework - Open Source MIT License',
         },
         image: 'img/og_image.png',
