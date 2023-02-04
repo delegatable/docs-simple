@@ -5,7 +5,7 @@ sidebar_label: EIP712 Signed-Typed Data
 
 The Delegatable framework uses the EIP712 signed-typed data specification for signing Delegations and Invocations.
 
-EIP712 core benefits are human-readable and machine-verifiable data structures. In other words, Users can more easily understand what they're signing (and the side-effects) and we can still process the signature on-chain, for minimal additional gas-costs.
+EIP712 core benefits are human-readable and machine-verifiable data structures. In other words, Users can more easily understand what they're signing (and the side effects) and we can still process the signature on-chain, for minimal additional gas-costs.
 
 If you are not familiar with the EIP712 specification it's recommended to review the following resources:
 
