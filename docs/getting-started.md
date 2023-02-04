@@ -44,6 +44,6 @@ git clone git@github.com:delegatable/delegatable-eth.git
 
 ## Contributing
 
-Interested in contributing the the Delegatable smart contract framework?
+Interested in contributing to the Delegatable smart contract framework?
 
 Create a pull request and/or open an issue and start getting involved today.
